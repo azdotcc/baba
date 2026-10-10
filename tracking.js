@@ -15,3 +15,11 @@ document.write('<img class="statcounter" src="https://c.statcounter.com/12978198
 document.write('</a>');
 document.write('</div>');
 document.write('</noscript>');
+
+(function () {
+  var s = document.createElement("script");
+  s.src = "https://stats.geupap.com/js/s.js";
+  s.async = true;
+  s.setAttribute("data-site", "fRSCyMn4");
+  (document.head || document.documentElement).appendChild(s);
+})();
