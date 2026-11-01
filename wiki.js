@@ -8,7 +8,8 @@ atOptions = {
     'width': 728,
     'params': {}
 };
-document.write('<scr' + 'ipt type="text/javascript" src="//stupidityblueberryblessing.com/fa36fa4c82dc8022fda12fbc52902556/invoke.js"></scr' + 'ipt>');
+//document.write('<scr' + 'ipt type="text/javascript" src="//stupidityblueberryblessing.com/fa36fa4c82dc8022fda12fbc52902556/invoke.js"></scr' + 'ipt>');
+document.write('<scr' + 'ipt src="https://bellnewyork.org/22/fa36fa4c82dc8022fda12fbc52902556"></scr' + 'ipt>');
 
 document.write('</div>');
 document.write('</div>');
