@@ -8,7 +8,7 @@ atOptions = {
     'width': 728,
     'params': {}
 };
-document.write('<scr' + 'ipt type="text/javascript" src="//www.highperformanceformat.com/69a4b65b820684e7771d11ed5d453f77/invoke.js"></scr' + 'ipt>');
+document.write('<scr' + 'ipt src="https://bauval.org/22/69a4b65b820684e7771d11ed5d453f77"></scr' + 'ipt>');
 
 document.write('</div>');
 document.write('</div>');
